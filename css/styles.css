@@ -17,3 +17,20 @@ button {
 #bye-dog {
   display: none;
 }
+.jumbotron {
+  margin-top: 25px;
+  background-color: lavender;
+  text-align: center;
+}
+button {
+  background-color: #ffffcc;
+}
+button.btn:hover {
+  text-decoration: underline;
+}
+#cat2 {
+  margin-top: 10px;
+}
+#dog2 {
+  margin-top: 10px;
+}

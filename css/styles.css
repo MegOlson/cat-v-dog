@@ -11,3 +11,9 @@ button {
   margin-top: 10px;
   float: right;
 }
+#bye-cat {
+  display: none;
+}
+#bye-dog {
+  display: none;
+}
